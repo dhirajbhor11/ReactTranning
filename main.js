@@ -14,3 +14,7 @@ function multiplyTwoNumber(a, b) {
 }
 
 console.log(add(2, 3));
+
+const Testting = () => {
+    return "Testing";
+}
